@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;500&family=Zen+Kurenaido&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 200;
+  background-color: rgb(253, 250, 246);
+}
+
+h1 {
+  font-family: 'Zen Kurenaido';
+}
+
+h2 {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  letter-spacing: 2px;
+}
+
+h3 {
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 500;
+}
