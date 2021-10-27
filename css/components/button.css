@@ -9,3 +9,10 @@
   color: rgb(6, 68, 32);
   background-color: rgb(228, 239, 231);
 }
+
+.btn-blue {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px;
+}
